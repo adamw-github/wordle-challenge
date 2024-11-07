@@ -6,3 +6,5 @@ To play:
 * Use a terminal which allows ANSI escape codes (for colouring purposes)
 * Run command **$python wordle.py**  from the **.\wordle** directory
 * ENJOY!
+
+![Example Game](example.png)
